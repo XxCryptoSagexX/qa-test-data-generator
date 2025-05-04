@@ -16,3 +16,4 @@ Generate fake user data (100 records, CSV) for QA testing web, mobile, or databa
 ### 🔧 Installation
 ```bash
 pip install faker pandas
+```
